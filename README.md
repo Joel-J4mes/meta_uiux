@@ -81,9 +81,9 @@ Things to improve in the future:
 
 * Enable interactivity for the back button, as well.
 * Figure out how to add a radio button.
-* Correct "Date" on the input form to a drop-down 
-* Be more precise when it comes to details like small, self-created vectors: the vector on the "Seating location" does not match the one in "Date"  
-* Correct spelling: instances of "Seating location"; one spelled with capital "l", the other with lower-case "l" 
+* Correct "Date" on the input form to a drop-down. 
+* Be more precise when it comes to details like small, self-created vectors: the vector on the "Seating location" does not match the one in "Date".
+* Correct spelling: instances of "Seating location"; one spelled with capital "l", the other with lower-case "l".
 * The provided input field width by the course is is not wide enough for real-life scenarios.
 * More in-depth prototypes should also include designing the drop-down menu in further detail.
 
