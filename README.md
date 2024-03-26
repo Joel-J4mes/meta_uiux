@@ -48,7 +48,7 @@ Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka
 
 ![](https://raw.githubusercontent.com/boglarkasebestyen/meta_uiux/main/ll_prototype.jpg)
 
-Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka-Sebestyen---Preview-prototypes---revised?type=design&mode=dev&t=CAL1bbEMmlJ0TpOw-1).
+Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka-Sebestyen---Preview-prototypes---revised?type=design&mode=dev&t=CAL1bbEMmlJ0TpOw-1)
 
 <br/>
 
