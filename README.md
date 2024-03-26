@@ -33,17 +33,25 @@ This is my first wireframe and protoype I've created, and it's also my final ass
 	<img src=https://raw.githubusercontent.com/boglarkasebestyen/meta_uiux/main/ll_homePage.jpg height="400"/>
 </p>
 
+<br/>
+
 ### Low-fidelity wireframe
 
 ![](https://raw.githubusercontent.com/boglarkasebestyen/meta_uiux/main/ll_wireframe.jpg)
 
 Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka-Sebestyen---Preview-prototypes---revised?type=design&node-id=107%3A211&mode=dev&t=CAL1bbEMmlJ0TpOw-1)
 
+<br/>
+
+
 ### Interactive high-fidelity prototype
 
 ![](https://raw.githubusercontent.com/boglarkasebestyen/meta_uiux/main/ll_prototype.jpg)
 
 Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka-Sebestyen---Preview-prototypes---revised?type=design&mode=dev&t=CAL1bbEMmlJ0TpOw-1).
+
+<br/>
+
 
 ### Persona
 
@@ -53,6 +61,9 @@ Link to Figma [here.](https://www.figma.com/file/YtLzA3J5qd8kszhpHHU29j/Boglarka
 
 View my Persona in Figma [here.](https://www.figma.com/file/JtDxFRSdDGXtcYcl9PDNeL/Boglarka-Sebestyen---My-persona?type=whiteboard&node-id=0%3A1&t=dkTHiTLvsgD1dQqr-1)
 
+<br/>
+
+
 ### Customer journey map
 
 <p align="center">
@@ -60,6 +71,9 @@ View my Persona in Figma [here.](https://www.figma.com/file/JtDxFRSdDGXtcYcl9PDN
 </p>
 
 View my customer journey map in Figma [here.](https://www.figma.com/file/sWD3Yj5WtIhAN4uHLqomTa/Boglarka-Sebestyen---My-customer-journey-map?type=whiteboard&node-id=0%3A1&t=913oMxmUlTdY98jb-1)
+
+<br/>
+
 
 
 ### Reflection
@@ -72,3 +86,7 @@ Things to improve in the future:
 * Correct spelling: instances of "Seating location"; one spelled with capital "l", the other with lower-case "l" 
 * The provided input field width by the course is is not wide enough for real-life scenarios.
 * More in-depth prototypes should also include designing the drop-down menu in further detail.
+
+<br/>
+<br/>
+
