@@ -14,7 +14,8 @@ This is my first wireframe and protoype I've created, and it's also my final ass
 
 
 ### Assignment requirements
-* Design and prototype the "Reserve a Table" feature for the mobile version of the Little Lemon restaurant website. 
+
+* Design and prototype the "Reserve a Table" feature for the mobile version of the Little Lemon restaurant websites. 
 * Include designing information architecture, and incorporating text, animations and graphics of branding and content.
 * Create a solution to the problem, a persona, a journey map, low-fidelity wireframes and an interactive high-fidelity prototype. 
 * Include at least two interactive components such as the button and radio buttons already created in a previous exercise. 
